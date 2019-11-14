@@ -1,0 +1,1 @@
+After some research I found that the command dig is used to perform DNS lookups (similar to nslookup). One of the differences between dig and other DNS lookups is that if I dont pass any parameter, it will bring information listed in "/etc/resolv.conf" according to the manual.

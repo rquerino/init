@@ -1,0 +1,1 @@
+After researching about how to find a dns provider, I found the command whois. This command brings the publicly displayed information about a domain, including it's provider. To extract the exact information I would also use $ grep 'Name Server'.

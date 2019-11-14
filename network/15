@@ -1,0 +1,6 @@
+Adding at the end of the file "etc/hosts" a new command:
+
+[...]
+46.19.122.85 intra.42.fr
+
+One cool thing is: if we want to block the access to a website, we can enter a false IP like 0.0.0.0

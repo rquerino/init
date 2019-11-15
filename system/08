@@ -1,0 +1,1 @@
+The public key is added to the file "~/.ssh/authorized_keys". You can create other key using the command ssh-keygen and it will be stored in the file "~/.ssh/id_rsa".

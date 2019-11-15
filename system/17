@@ -1,0 +1,2 @@
+# opened port 2222 on VM->Machine->Settings->Network->Advanced->Port Forwarding->2222 host, 22 guest
+ssh -p2222 renato@127.0.0.1

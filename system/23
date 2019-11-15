@@ -1,0 +1,1 @@
+You can switch your user using the command 'su username' or via login screen. To connect via ssh you can use the command 'ssh username@ip'.
